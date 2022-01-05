@@ -1,0 +1,58 @@
+[
+	{
+		"id" : 69,
+		"nama_bahagian" : "BAHAGIAN KHIDMAT PENGURUSAN (BKP)"
+	},
+	{
+		"id" : 71,
+		"nama_bahagian" : "BAHAGIAN PEMBANGUNAN ICT DAN GEOINFORMATIK (BITG)"
+	},
+	{
+		"id" : 72,
+		"nama_bahagian" : "BAHAGIAN KEJURUTERAAN DAN TEKNOLOGI ANGKASA (BKT)"
+	},
+	{
+		"id" : 73,
+		"nama_bahagian" : "UNIT INTEGRITI"
+	},
+	{
+		"id" : 74,
+		"nama_bahagian" : "PEJABAT KETUA PENGARAH"
+	},
+	{
+		"id" : 77,
+		"nama_bahagian" : "PEJABAT TIMBALAN KETUA PENGARAH (PENYELIDIKAN DAN PEMBANGUNAN)"
+	},
+	{
+		"id" : 81,
+		"nama_bahagian" : "BAHAGIAN EKSPLORASI DAN SAINS ANGKASA (BES)"
+	},
+	{
+		"id" : 82,
+		"nama_bahagian" : "CUTI BELAJAR"
+	},
+	{
+		"id" : 86,
+		"nama_bahagian" : "PEJABAT TIMBALAN KETUA PENGARAH (PERKHIDMATAN TEKNIKAL DAN OPERASI)"
+	},
+	{
+		"id" : 87,
+		"nama_bahagian" : "BAHAGIAN PERANCANGAN DAN KOMUNIKASI STRATEGIK (BPK)"
+	},
+	{
+		"id" : 88,
+		"nama_bahagian" : "BAHAGIAN APLIKASI PENGURUSAN SUMBER (BPS)"
+	},
+	{
+		"id" : 89,
+		"nama_bahagian" : "BAHAGIAN APLIKASI PERISIKAN PERTAHANAN (BP)"
+	},
+	{
+		"id" : 90,
+		"nama_bahagian" : "BAHAGIAN APLIKASI STRATEGIK (BS)"
+	},
+	{
+		"id" : 91,
+		"nama_bahagian" : "BAHAGIAN PENERIMAAN DAN PENGEDARAN DATA (BPD)"
+	}
+]
